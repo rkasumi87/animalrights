@@ -28,7 +28,7 @@ h2 {
 }
 ul {
 	position: fixed;
-	top: 500px;
+	top: 600px;
 	left: 1125px;
 	color: white;
 	font-family: Futura, "Trebuchet MS", Arial, sans-serif;
@@ -39,19 +39,16 @@ ul {
 }
 
 li {
-	display: inline-block;
+	display: inline;
 	padding: none;
 	margin: none;
+	word-spacing: 20px;
+}
+a {
+	color: white;
+	font-family: Futura, "Trebuchet MS", Arial, sans-serif;
+    letter-spacing: 5px;
+    text-transform: uppercase;
 }
 
-
-#footer {
-	position: fixed;
-	bottom: 0;
-	left: 0;
-	right: 0;
-	display: inline-block;
-	position: absolute;
-	width: 100px;
-	height: 40px;
 }
