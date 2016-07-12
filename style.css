@@ -9,7 +9,7 @@ body {
 h1 {
 	position: fixed;
 	top: 25px;
-	left: 60%;
+	left: 65%;
 	  color: white;
 	font-family: Futura, "Trebuchet MS", Arial, sans-serif;
     letter-spacing: 20px;
@@ -20,7 +20,7 @@ h1 {
 h2 {
 	position: fixed;
 	top: 80px;
-	left: 60%;
+	left: 69%;
 	color: white;
 	font-family: Futura, "Trebuchet MS", Arial, sans-serif;
     letter-spacing: 5px;
@@ -49,7 +49,7 @@ li {
 #footer {
 	position: fixed;
 	bottom: 0;
-	left: 60%;
+	left: 67%;
 	right: 0px;
 	height: 40px;
 }
@@ -57,7 +57,7 @@ li {
 .container {
 	background: rgba(169,169,169, 0.7);
 	margin-top: 200px;
-	margin-right: 50px;
+	margin-right: 9%;
 	float: right;
 	width: 400px;
 	height: 100%;
@@ -68,6 +68,7 @@ li {
 
 p {
 	color: white;
+	text-align: justify;
 }
 a {
 	text-decoration: none;
